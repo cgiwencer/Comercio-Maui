@@ -1,0 +1,1 @@
+select `proveedores`.`Prv_des` AS `Prv_des`,`productos`.`pro_Des` AS `pro_Des`,`productos`.`Pro_uni` AS `Pro_uni`,`productos`.`pro_cod` AS `pro_cod`,`grupos`.`gru_des` AS `gru_des` from ((`productos` join `proveedores` on((`productos`.`prv_id` = `proveedores`.`Prv_id`))) join `grupos` on((`productos`.`gru_id` = `grupos`.`gru_id`)))

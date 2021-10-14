@@ -1,0 +1,1 @@
+mysql --user=root --password=cagisa ferreteria < Backup.sq

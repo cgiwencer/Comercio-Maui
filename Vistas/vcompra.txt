@@ -1,0 +1,1 @@
+select `cabingreso`.`cingr_fec` AS `cingr_fec`,`detingreso`.`pro_cod` AS `pro_cod`,`detingreso`.`pro_des` AS `pro_des`,`detingreso`.`ding_can` AS `ding_can` from (`cabingreso` join `detingreso` on((`cabingreso`.`cingr_id` = `detingreso`.`cing_Id`)))

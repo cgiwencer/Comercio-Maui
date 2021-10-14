@@ -1,0 +1,1 @@
+mysqldump --user=root --password=cagisa Ferreteria > backup.SQL

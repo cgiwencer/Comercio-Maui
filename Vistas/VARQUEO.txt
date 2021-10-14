@@ -1,0 +1,1 @@
+select `usuarios`.`Usu_Nom` AS `Usu_Nom`,`arqueo`.`Pag_fec` AS `Pag_fec`,`arqueo`.`Pag_NFa` AS `Pag_NFa`,`arqueo`.`Pag_Nit` AS `Pag_Nit`,`arqueo`.`Pag_RaS` AS `Pag_RaS`,`arqueo`.`Pag_Sut` AS `Pag_Sut`,`arqueo`.`Pag_DBs` AS `Pag_DBs`,`arqueo`.`Pag_Dpo` AS `Pag_Dpo`,`arqueo`.`Pag_Mon` AS `Pag_Mon` from (`arqueo` join `usuarios` on((`arqueo`.`Usu_Id` = `usuarios`.`Usu_Id`)))

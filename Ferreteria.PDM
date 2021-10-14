@@ -1,0 +1,369 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 1
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Soft2020\Lic. Laura\Instalador
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+u25dts.dll=C:\WINDOWS\Crystal\u25dts.dll
+crxlat32.dll=D:\SOFTWARE CPSLP\SysWOW64\crxlat32.dll
+u25store.dll=D:\SOFTWARE CPSLP\Instalador\Support\u25store.dll
+
+[Package|Paquete de instalación estándar 1|Files Released]
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\WINDOWS\system32\ValeText.ocx=
+C:\WINDOWS\system32\sstabs32.ocx=
+C:\WINDOWS\system32\SSCALA32.OCX=
+C:\WINDOWS\system32\SSCALB32.OCX=
+C:\WINDOWS\system32\ssdw3bo.ocx=
+C:\WINDOWS\system32\ssa3d30.ocx=
+C:\WINDOWS\system32\MSDBRPT.DLL=
+C:\WINDOWS\system32\odbcconf.dll=
+C:\Sheridan\ActiveListBar\SSLstBar.ocx=
+C:\Sheridan\ActiveToolBars\sstbars.ocx=
+C:\Sheridan\ActiveTreeView\SSTree.ocx=
+D:\SOFTWARE CPSLP\SysWOW64\SSform32.ocx=
+D:\SOFTWARE CPSLP\SysWOW64\ssdock32.ocx=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\msstdfmt.dll=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+c:\sheridan\activelistbar\sslstbar.ocx=
+C:\Sheridan\ActiveToolBars\sstbars.ocx=
+c:\sheridan\activetreeview\sstree.ocx=
+c:\sheridan\ssdatwd3\ssdw3a32.ocx=
+c:\sheridan\ssdatwd3\ssdw3ao.ocx=
+C:\Sheridan\SSDatWd3\ssdw3b32.ocx=
+ssdock32.ocx=
+ssform32.ocx=
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTES.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\ADODCES.DLL=Yes
+C:\WINDOWS\system32\CRYSTL32.OCX=Yes
+C:\WINDOWS\system32\CRPE32.DLL=Yes
+C:\WINDOWS\system32\IMPLODE.DLL=Yes
+C:\WINDOWS\system32\ccsdk32.dll=Yes
+C:\WINDOWS\system32\CRPAIG32.DLL=Yes
+C:\WINDOWS\system32\P2BBND.DLL=Yes
+C:\WINDOWS\system32\P2BDAO.DLL=Yes
+C:\WINDOWS\system32\P2CTDAO.DLL=Yes
+C:\WINDOWS\system32\P2IRDAO.DLL=Yes
+C:\WINDOWS\system32\P2SEVT.DLL=Yes
+C:\WINDOWS\system32\P2SMON.DLL=Yes
+C:\WINDOWS\system32\P2SODBC.DLL=Yes
+C:\WINDOWS\Crystal\u25dts.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Sheridan\ActiveListBar\SSLstBar.ocx=Yes
+C:\Sheridan\ActiveToolBars\sstbars.ocx=Yes
+C:\Sheridan\ActiveTreeView\SSTree.ocx=Yes
+C:\Sheridan\SSDatWd3\ssdw3a32.ocx=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Sheridan\SSDatWd3\ssdw3ao.ocx=Yes
+C:\Sheridan\SSDatWd3\ssr2c.dll=Yes
+C:\Sheridan\SSDatWd3\ssdw3b32.ocx=Yes
+C:\Sheridan\SSDatWd3\ssmedt32.dll=Yes
+C:\Sheridan\SSDatWd3\ssprn32.dll=Yes
+D:\Soft2020\Lic. Laura\Comercio.exe=Yes
+C:\Archivos de programa\Sheridan\ActiveThreed Plus\ssa3d30.ocx=Yes
+C:\Sheridan\SSDatWd3\ssdw3bo.ocx=Yes
+C:\Sheridan\SSCalWdg\SSCALB32.OCX=Yes
+C:\Sheridan\SSCalWdg\SSCALA32.OCX=Yes
+C:\WINDOWS\system32\SSFM1032.DLL=Yes
+D:\SOFTWARE CPSLP\SysWOW64\crxlat32.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2bact.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2bbde.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2bbtrv.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2bxbse.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2ctbtrv.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2iract.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2ixbse.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2lodbc.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\P2OESBSE.DLL=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2sacl.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\P2SDB2.DLL=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2sexsr.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\P2SIFMX.DLL=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2smapi.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2sora7.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\P2SOUTLK.DLL=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2srepl.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2ssql.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2ssyb10.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2strack.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\p2swblg.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2ddisk.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2dmapi.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2dnotes.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2dpost.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2dvim.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2fcr.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2fdif.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2fhtml.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2fodbc.dll=Yes
+D:\SOFTWARE CPSLP\Instalador\Support\u2frdef.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2frec.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2frtf.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2fsepv.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2ftext.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2fwks.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2fwordw.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2fxls.dll=Yes
+D:\SOFTWARE CPSLP\Instalador\Support\u25store.dll=Yes
+D:\SOFTWARE CPSLP\Instalador\Support\u25total.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2l2000.dll=Yes
+D:\SOFTWARE CPSLP\Instalador\Support\u2lbar.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\u2lcom.dll=Yes
+D:\SOFTWARE CPSLP\Instalador\Support\u2ldts.dll=Yes
+D:\SOFTWARE CPSLP\Instalador\Support\u2lesbse.dll=Yes
+D:\SOFTWARE CPSLP\Instalador\Support\u2lexch.dll=Yes
+D:\SOFTWARE CPSLP\Instalador\Support\u2lfinra.dll=Yes
+D:\SOFTWARE CPSLP\Instalador\Support\u2lsamp1.dll=Yes
+D:\SOFTWARE CPSLP\SysWOW64\ssdock32.ocx=Yes
+D:\SOFTWARE CPSLP\SysWOW64\SSform32.ocx=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+F:\Drive\GVSoft\Ferreteria\Ferreteria.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\odbcconf.dll=$(AppPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ssa3d30.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\CRYSTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CRPE32.DLL=$(WinSysPath)
+C:\WINDOWS\system32\IMPLODE.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ccsdk32.dll=$(WinSysPath)
+C:\WINDOWS\system32\CRPAIG32.DLL=$(WinSysPath)
+C:\WINDOWS\system32\crxlat32.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bact.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2BBND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2bbtrv.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2BDAO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctbtrv.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2CTDAO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2iract.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2IRDAO.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2ixbse.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2lodbc.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2OESBSE.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2sacl.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2SDB2.DLL=$(WinSysPath)
+C:\WINDOWS\system32\P2SEVT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2sexsr.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2SIFMX.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2smapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2SMON.DLL=$(WinSysPath)
+C:\WINDOWS\system32\P2SODBC.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2SOUTLK.DLL=$(WinSysPath)
+C:\WINDOWS\system32\p2srepl.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2strack.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2swblg.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2dmapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2fcr.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2fdif.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2fhtml.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frdef.dll=$(AppPath)
+C:\WINDOWS\system32\u2frec.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2frtf.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2ftext.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2fwks.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2fwordw.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2fxls.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u25store.dll=$(AppPath)
+C:\WINDOWS\Crystal\u25total.dll=$(AppPath)
+C:\WINDOWS\system32\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lbar.dll=$(AppPath)
+C:\WINDOWS\system32\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lesbse.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lexch.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lfinra.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINDOWS\system32\ssdw3bo.ocx=$(WinSysPath)
+C:\WINDOWS\system32\SSCALB32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SSCALA32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\sstabs32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\ValeText.ocx=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Sheridan\ActiveListBar\SSLstBar.ocx=$(WinSysPath)
+C:\Sheridan\ActiveToolBars\sstbars.ocx=$(WinSysPath)
+C:\Sheridan\ActiveTreeView\SSTree.ocx=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssdw3a32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Sheridan\SSDatWd3\ssdw3ao.ocx=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssr2c.dll=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssdw3b32.ocx=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssmedt32.dll=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssprn32.dll=$(WinSysPath)
+C:\Sheridan\SSDesWdg\ssdock32.ocx=$(WinSysPath)
+C:\Sheridan\SSDesWdg\SSform32.ocx=$(WinSysPath)
+D:\Soft2020\Lic. Laura\Comercio.exe=$(AppPath)
+C:\Archivos de programa\Sheridan\ActiveThreed Plus\ssa3d30.ocx=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssdw3bo.ocx=$(WinSysPath)
+C:\Sheridan\SSCalWdg\SSCALB32.OCX=$(WinSysPath)
+C:\Sheridan\SSCalWdg\SSCALA32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SSFM1032.DLL=$(WinSysPathSysFile)
+D:\SOFTWARE CPSLP\SysWOW64\crxlat32.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2bact.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2bbde.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2bbtrv.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2bxbse.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2ctbtrv.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2iract.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2ixbse.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2lodbc.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\P2OESBSE.DLL=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2sacl.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\P2SDB2.DLL=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2sexsr.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\P2SIFMX.DLL=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2smapi.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2sora7.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\P2SOUTLK.DLL=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2srepl.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2ssql.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2ssyb10.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2strack.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\p2swblg.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2ddisk.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2dmapi.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2dnotes.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2dpost.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2dvim.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2fcr.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2fdif.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2fhtml.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2fodbc.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\Instalador\Support\u2frdef.dll=$(AppPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2frec.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2frtf.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2fsepv.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2ftext.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2fwks.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2fwordw.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2fxls.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\Instalador\Support\u25store.dll=$(AppPath)
+D:\SOFTWARE CPSLP\Instalador\Support\u25total.dll=$(AppPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2l2000.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\Instalador\Support\u2lbar.dll=$(AppPath)
+D:\SOFTWARE CPSLP\SysWOW64\u2lcom.dll=$(WinSysPath)
+D:\SOFTWARE CPSLP\Instalador\Support\u2ldts.dll=$(AppPath)
+D:\SOFTWARE CPSLP\Instalador\Support\u2lesbse.dll=$(AppPath)
+D:\SOFTWARE CPSLP\Instalador\Support\u2lexch.dll=$(AppPath)
+D:\SOFTWARE CPSLP\Instalador\Support\u2lfinra.dll=$(AppPath)
+D:\SOFTWARE CPSLP\Instalador\Support\u2lsamp1.dll=$(AppPath)
+D:\SOFTWARE CPSLP\SysWOW64\ssdock32.ocx=$(WinSysPath)
+D:\SOFTWARE CPSLP\SysWOW64\SSform32.ocx=$(WinSysPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+F:\Drive\GVSoft\Ferreteria\Ferreteria.exe=No
+C:\WINDOWS\system32\odbcconf.dll=No
+C:\WINDOWS\Crystal\u2frdef.dll=No
+C:\WINDOWS\Crystal\u25dts.dll=No
+C:\WINDOWS\Crystal\u25store.dll=No
+C:\WINDOWS\Crystal\u25total.dll=No
+C:\WINDOWS\Crystal\u2lbar.dll=No
+C:\WINDOWS\Crystal\u2ldts.dll=No
+C:\WINDOWS\Crystal\u2lesbse.dll=No
+C:\WINDOWS\Crystal\u2lexch.dll=No
+C:\WINDOWS\Crystal\u2lfinra.dll=No
+C:\WINDOWS\Crystal\u2lsamp1.dll=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\Soft2020\Lic. Laura\Comercio.exe=No
+D:\SOFTWARE CPSLP\Instalador\Support\u2frdef.dll=No
+D:\SOFTWARE CPSLP\Instalador\Support\u25store.dll=No
+D:\SOFTWARE CPSLP\Instalador\Support\u25total.dll=No
+D:\SOFTWARE CPSLP\Instalador\Support\u2lbar.dll=No
+D:\SOFTWARE CPSLP\Instalador\Support\u2ldts.dll=No
+D:\SOFTWARE CPSLP\Instalador\Support\u2lesbse.dll=No
+D:\SOFTWARE CPSLP\Instalador\Support\u2lexch.dll=No
+D:\SOFTWARE CPSLP\Instalador\Support\u2lfinra.dll=No
+D:\SOFTWARE CPSLP\Instalador\Support\u2lsamp1.dll=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=Software de Comercio
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=Ferreteria San Francisco
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|Ferreteria San Francisco]
+Icon1=Ferreteria.exe
+Title1=Ferreteria San Francisco
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=D:\Soft2020\Lic. Laura\Instalador
+ProjectFolder=D:\Soft2020\Lic. Laura
+ServerSideCab=
+File1=D:\Soft2020\Lic. Laura\Instalador\setup.exe
+File2=D:\Soft2020\Lic. Laura\Instalador\Setup.Lst
+File3=D:\Soft2020\Lic. Laura\Instalador\Comercio.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

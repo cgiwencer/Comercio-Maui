@@ -1,0 +1,1 @@
+select `cabinvinicial`.`ini_fec` AS `ini_fec`,`detinvinicial`.`Pro_cod` AS `Pro_cod`,`detinvinicial`.`Pro_des` AS `Pro_des`,`detinvinicial`.`Ini_Can` AS `Ini_Can` from (`cabinvinicial` join `detinvinicial` on((`cabinvinicial`.`ini_id` = `detinvinicial`.`InI_Id`)))

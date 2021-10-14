@@ -1,0 +1,1 @@
+select `vegresos`.`cegr_fec` AS `cegr_fec`,`vegresos`.`pro_cod` AS `pro_cod`,`vegresos`.`pro_des` AS `pro_des`,`vegresos`.`degr_can` AS `degr_can`,`vegresos`.`degr_pru` AS `degr_pru`,`vegresos`.`degr_prt` AS `degr_prt`,`vegresos`.`cegr_id` AS `cegr_id` from (`arqueo` join `vegresos` on((`arqueo`.`cegr_id` = `vegresos`.`cegr_id`)))
